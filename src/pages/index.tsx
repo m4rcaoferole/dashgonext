@@ -24,7 +24,7 @@ export default function SignIn() {
   });
 
   const handleSignIn: SubmitHandler<SignInData> = async (values) => {
-    console.log(values);
+    // console.log(values);
   };
 
   return (
